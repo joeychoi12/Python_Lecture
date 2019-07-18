@@ -1,3 +1,9 @@
+import turtle as t
+t.shape('turtle')
+t.forward(100)
+t.right(90)
+t.forward(100)
+
 aList = [10,20,30,40,50]
 for a in aList:
     print(a)

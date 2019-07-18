@@ -1,7 +1,7 @@
 # Python Assignment 1
 
 
-#7
+#7 Got wrong need to do again
 seconds = 0
 secondsHour = 0
 secondsMinutes = 0
@@ -81,7 +81,7 @@ for j in range(0,60):
 seconds = secondsHour + secondsMinutes
 print(seconds,"seconds")
 
-#6
+#6 Draw Diamond
 
 
 line = int(input("Diamond 의 길이를 입력하세요 : "))
@@ -92,7 +92,20 @@ for x in range(1, line * 2, 2):
 for y in range(line * 2-3, 0, -2):
         print((" " * ( (line * 2 - 1 - y) // 2 )) + "*" * y)
 
-
+n = int(input('5이상 9이하의 홀수'))
+height = (n+1)//2
+for i in range(1,height+1):
+    for k in range(height - 1):
+        print(' ',end='')
+    for k in range(i*2-1):
+        print('*',end='')
+    print()
+for i in reversed(range(1,height)):
+    for k in range(i, height):
+        print(' ',end = '')
+    for k in range(i*2-1):
+        print('*',end=''):
+    print()
 
 
 

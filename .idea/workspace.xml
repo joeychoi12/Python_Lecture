@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b40478b8-bab5-40c1-8fbf-1bcfa3d6ad6f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Python_Lecture/Assignment/#2/최용호" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Lecture/Self_study/Init.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Lecture/Assignment/#1/최용호.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Lecture/Assignment/#1/최용호.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Lecture/Lecture/For_loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Lecture/Lecture/For_loops.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,29 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python_Lecture/Lecture/For_loops.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python_Lecture/Assignment/#1/최용호.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Python_Lecture/Assignment/#2/최용호">
+        <entry file="file://$PROJECT_DIR$/Python_Lecture/Self_study/Init.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state>
+              <caret column="40" selection-start-column="40" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -62,6 +42,7 @@
         <option value="$PROJECT_DIR$/Python_Lecture/Lecture/For_loops.py" />
         <option value="$PROJECT_DIR$/Python_Lecture/Assignment/#1/최용호.py" />
         <option value="$PROJECT_DIR$/Python_Lecture/Assignment/#2/최용호" />
+        <option value="$PROJECT_DIR$/Python_Lecture/Self_study/Init.py" />
       </list>
     </option>
   </component>
@@ -75,7 +56,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -116,42 +96,24 @@
               <item name="Python_Lecture" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_Lecture" type="462c0819:PsiDirectoryNode" />
               <item name="Python_Lecture" type="462c0819:PsiDirectoryNode" />
-              <item name="Assignment" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python_Lecture" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_Lecture" type="462c0819:PsiDirectoryNode" />
-              <item name="Python_Lecture" type="462c0819:PsiDirectoryNode" />
-              <item name="Assignment" type="462c0819:PsiDirectoryNode" />
-              <item name="#1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python_Lecture" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_Lecture" type="462c0819:PsiDirectoryNode" />
-              <item name="Python_Lecture" type="462c0819:PsiDirectoryNode" />
-              <item name="Assignment" type="462c0819:PsiDirectoryNode" />
-              <item name="#2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python_Lecture" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_Lecture" type="462c0819:PsiDirectoryNode" />
-              <item name="Python_Lecture" type="462c0819:PsiDirectoryNode" />
               <item name="Lecture" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python_Lecture" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_Lecture" type="462c0819:PsiDirectoryNode" />
               <item name="Python_Lecture" type="462c0819:PsiDirectoryNode" />
-              <item name="Unit10" type="462c0819:PsiDirectoryNode" />
+              <item name="Self_study" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -230,12 +192,12 @@
   <component name="ToolWindowManager">
     <frame x="960" y="0" width="960" height="1040" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25555557" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2611111" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3296582" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3296582" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -257,24 +219,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Python_Lecture/for_loops.py" />
     <entry file="file://$PROJECT_DIR$/Python_Lecture/Assignment/Python_1" />
+    <entry file="file://$PROJECT_DIR$/Python_Lecture/Assignment/#2/최용호">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Python_Lecture/Assignment/#1/최용호.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Python_Lecture/Lecture/For_loops.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
-          <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python_Lecture/Assignment/#2/최용호">
+    <entry file="file://$PROJECT_DIR$/Python_Lecture/Self_study/Init.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state>
+          <caret column="40" selection-start-column="40" selection-end-column="40" />
         </state>
       </provider>
     </entry>
